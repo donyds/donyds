@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donyds" alt="donyds" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React js**
 
 - 💬 Ask me about **HTML,HTML5, Css, Css3, Bootstrap,Wordpress,Javascript,Jquery**
 
